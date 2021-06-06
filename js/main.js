@@ -62,11 +62,7 @@ var text2=`# 自我介绍
 ----
 21岁，未来的Java软件工程师，目前在湖北理工学院学习。
 有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控。
-像极限一样唯一，如   
-$$
-e^x
-$$
-求导n次还是始终如一，发展速度极快，张宇认证 ！
+像极限一样唯一，如 **e^x** 求导n次还是始终如一，发展速度极快，张宇认证 ！
 <br/>
 
 
@@ -92,8 +88,8 @@ $$
 
 开源项目
 ----
-7. [Lizikang的个人技术博客](https://github.com/lizikanglzk/lizikanglzk.github.io)
-5. [一个JS写的动态简历](https://github.com/lizikanglzk/lzk_resume)
+1. [Lizikang的个人技术博客](https://github.com/lizikanglzk/lizikanglzk.github.io)
+2. [一个JS写的动态简历](https://github.com/lizikanglzk/lzk_resume)
 
 链接
 ----
