@@ -58,72 +58,63 @@ html{
 
 var text2=`# 自我介绍
 
-AYJCSGM
+### Lizikang ### 
 ----
-23岁，Java软件工程师，三年Java EE 从业经验，目前在北京工作。
+21岁，未来的Java软件工程师，目前在湖北理工学院学习。
 有良好的文档编写和代码书写规范，能独立解决问题、百折不挠、细节控。
+像极限一样唯一，如   
+$$
+e^x
+$$
+求导n次还是始终如一，发展速度极快，张宇认证 ！
 <br/>
 
 
 技能
 ----
 * 后端开发
-* 聚合支付
-* 单点登录
-* 权限管理
-* 公众号/小程序开发
-* API接口开发
-* Linux
 * 开源爱好者
 * 博客系统
 
 技术及语言
 ----
-  - **Java**: SpringBoot、SpringCloud、SpringMVC、MyBatis、Shiro、Freemarker
+  - **Java**: SpringBoot、MyBatis、Spring
   - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
-  - **数据库**: MySQL/MariaDB、SQLServer、Oracle、MongoDB、redis、memcached
-  - **web 服务器**: Nginx、Tomcat、Apache、Jetty
+  - **数据库**: MySQL、SQLServer、Oracle
+  - **web 服务器**: Tomcat
   - **OS**: Linux、Windows
-  - **Others**: Git、Svn、Maven、XMind、Visio、IDEA
+  - **Others**: Git、Maven、XMind、IDEA
 
-工作经历
+学习经历
 ----
-1. [北京江融信科技有限公司](http://www.jiangrongxin.com/)
+1. [湖北理工学院](http://www.hbpu.edu.cn/)
 
 
 开源项目
 ----
-1. [基于SpringBoot + Semantic UI + JPA的个人博客](https://github.com/AYJCSGM/spring-boot-blog)
-2. [问卷调查系统](https://github.com/AYJCSGM/survey-system)
-3. [企业级博客](https://github.com/AYJCSGM/Enterprise-Blog)
-4. [客户管理系统](https://github.com/AYJCSGM/ClientManageSystem)
-5. [一个会动的简历](https://github.com/AYJCSGM/resume)
-6. [仓库管理系统](https://gitee.com/ayjcsgm/WM)
-7. [AYJCSGM的技术博客网站](https://github.com/AYJCSGM/AYJCSGM.github.io)
+7. [Lizikang的个人技术博客](https://github.com/lizikanglzk/lizikanglzk.github.io)
+5. [一个JS写的动态简历](https://github.com/lizikanglzk/lzk_resume)
 
 链接
 ----
-* [技术博客](https://ayjcsgm.github.io/)
-* [GitHub](https://github.com/AYJCSGM)
-* [码云](https://gitee.com/ayjcsgm)
-* [CSDN](https://blog.csdn.net/weixin_43664418)
-* [开发笔记](https://github.com/AYJCSGM/AYJCSGM.github.io)
+* [技术博客](https://lizikanglzk.github.io/)
+* [GitHub](https://github.com/lizikanglzk)
+* [码云](https://gitee.com/li_zikang)
+* [CSDN](https://blog.csdn.net/qq_43845915)
 
-[归档文章](https://ayjcsgm.github.io/)
+[归档文章](https://lizikanglzk.github.io/archives/)
 ----
-1. [Java](https://ayjcsgm.github.io/tags/java/)
-2. [Linux](https://ayjcsgm.github.io/tags/Linux/)
-3. [Spring](https://ayjcsgm.github.io/tags/Spring)
-4. [MySQL](https://ayjcsgm.github.io/tags/SQL)
-5. [Hexo](https://ayjcsgm.github.io/tags/Hexo)
-6. [Docker](https://ayjcsgm.github.io/tags/Docker/)
+1. [Unity](https://lizikanglzk.github.io/categories/Unity/)
+2. [信息安全](https://lizikanglzk.github.io/categories/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8/)
+3. [计算机网络](https://lizikanglzk.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/)
+4. [夏日限定](https://lizikanglzk.github.io/categories/%E5%B0%8F%E7%8E%A9%E5%85%B7/%E5%A4%8F%E6%97%A5%E9%99%90%E5%AE%9A/)
 
 联系我
 ----
-* 联系QQ：**1141341095** 
-* 主要涉及技术：**Java后端开发**、**聚合支付**、**公众号开发**、**开源爱好者**、**Linux** 
+* 联系QQ：**1191787635** 
+* 主要涉及技术：**Java后端开发**
 
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/AYJCSGM/resume)，打造你自己的简历！
+> Welcome!!!
 `;
 
 var text3=`
