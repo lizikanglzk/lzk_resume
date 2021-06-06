@@ -75,7 +75,7 @@ var text2=`# 自我介绍
 技术及语言
 ----
   - **Java**: SpringBoot、MyBatis、Spring
-  - **前端**: VueJs、Bootstrap、LayUI、jQuery UI
+  - **前端**: VueJs、Semantic UI
   - **数据库**: MySQL、SQLServer、Oracle
   - **web 服务器**: Tomcat
   - **OS**: Linux、Windows
