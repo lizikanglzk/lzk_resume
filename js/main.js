@@ -162,7 +162,7 @@ function writeLeft(fn){
       window.clearInterval(intervalId1);
       fn();
     }
-  },10)
+  },5)
 }
 
 /***********************************开始在右边创建一个空白纸用来写markdown******************************************/
@@ -188,7 +188,7 @@ function writeRight(fn){
       window.clearInterval(intervalId2);
       fn();
     }
-  },10)
+  },1)
 }
 
 /**********************************将左边倾斜*****************************************/
@@ -213,7 +213,7 @@ function mdHtml(fn){
       window.clearInterval(intervalId3);
       fn();
     }
-  },10)
+  },5)
 }
 
 /**********************************把markdown转换为html*****************************************/
@@ -239,7 +239,7 @@ function end(){
     if(n>=text4.length){
       window.clearInterval(intervalId4);
     }
-  },10)
+  },5)
 }
 
 
