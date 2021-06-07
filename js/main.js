@@ -162,7 +162,7 @@ function writeLeft(fn){
       window.clearInterval(intervalId1);
       fn();
     }
-  },5)
+  },10)
 }
 
 /***********************************开始在右边创建一个空白纸用来写markdown******************************************/
